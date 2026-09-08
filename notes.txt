@@ -1,0 +1,32 @@
+postgresql: actual db
+
+pgadmin4 : interface/GUI - postgresql db implement 
+
+# authentication: to verify the claim
+# autorization: power of manipulation
+
+
+# signup/ register:
+
+username
+fname
+lname
+email: ......@gmail.com, sdfghj
+pw: min 8 digit, a-z, A_Z, !@#$%^&*()_+, 
+confrimpw
+
+regex: strengthening the pw, 
+if pw == confpw:
+    creation
+
+
+
+# signin/ login: 
+
+
+# password change:
+1. change password -> previous known -> change : login 
+ - login
+ - change_password url -> urls -> built-in form -> fill () 
+ 
+2. forget password -> previous forgot -> reset : no login
